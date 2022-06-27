@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Increment to Make Array Unique", "Minimum Increment to Make Array Unique\Minimum Increment to Make Array Unique.csproj", "{5FF1E161-94AF-4819-AF08-95E977032DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF1E161-94AF-4819-AF08-95E977032DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF1E161-94AF-4819-AF08-95E977032DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF1E161-94AF-4819-AF08-95E977032DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF1E161-94AF-4819-AF08-95E977032DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F689C47-0536-405F-8482-30049744C36B}
+	EndGlobalSection
+EndGlobal
